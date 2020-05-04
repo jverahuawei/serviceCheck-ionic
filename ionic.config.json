@@ -1,5 +1,7 @@
 {
   "name": "servicechecker",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
